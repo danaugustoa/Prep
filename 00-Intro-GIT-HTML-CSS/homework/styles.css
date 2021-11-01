@@ -1,0 +1,17 @@
+h1{
+  color: hsl(30, 100%, 50%, 1.9);
+}
+img{
+  width: 400px
+}
+#thirdDiv{
+  width: 500px;
+  height: 350px;
+background-color: gray;
+padding: 50px;
+border: darkred 7px solid;
+  }
+  #spanId{
+    font-size: 25px;
+    margin: 50px;
+  }
